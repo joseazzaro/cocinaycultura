@@ -1,0 +1,54 @@
+https://www.1001fonts.com/newspaper-fonts.html?page=1
+https://www.color-name.com/aged-paper.color
+https://www.schemecolor.com/vintage-newspaper.php
+http://www.textures4photoshop.com/tex/tags/old-paper.aspx
+https://dzone.com/articles/applying-an-image-texture-on-text-with-html-and-cs
+https://codepen.io/AgnusDei/pen/NWPbOxL
+https://www.geeksforgeeks.org/how-to-create-texture-background-using-css/
+
+https://www.designyourway.net/blog/typography/newspaper-fonts/
+https://www.schemecolor.com/vintage-red-and-purple-color-combination.php
+http://www.colorhunter.com/tag/newspaper/1
+
+NEWSPAPER CODEPEN
+https://codepen.io/silkine/pen/jldif
+https://codepen.io/tag/newspaper?cursor=ZD0xJm89MCZwPTEw
+
+INSERT DATE IN A HTML
+https://stackoverflow.com/questions/32540044/html-display-current-date/32540196
+
+DIVS SIDE BY SIDE
+https://stackoverflow.com/questions/20179154/how-can-i-align-3-divs-side-by-side
+POSITIONING A DIV
+https://www.geeksforgeeks.org/how-to-position-a-div-at-specific-coordinates/?ref=lbp
+
+
+EJEMPLO APILADO
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery
+
+ASIDE
+https://stackoverflow.com/questions/22109071/position-aside-part-way-up-in-paragraph-with-css
+
+CSS SHAPES
+https://www.html5rocks.com/en/tutorials/shapes/getting-started/
+
+COLORES
+https://html-color.codes/grey
+
+CARROUSEL PROGRAMMING JS
+https://www.geeksforgeeks.org/how-to-create-a-review-carousel-using-javascript/
+
+SLICING ARRAYS
+https://www.geeksforgeeks.org/split-an-array-into-chunks-in-javascript/
+
+ELEMENTS ORDER
+https://www.w3schools.com/jsref/prop_style_order.asp
+
+FOOTER EXAMPLE
+https://codepen.io/istealcodes/pen/eYZPKEa
+
+CONTACT PAGE EXAMPLE
+https://codepen.io/dianalisova/pen/eYJGgKq
+
+RESPONSIVE IMAGE GRID
+https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
