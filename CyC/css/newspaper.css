@@ -22,26 +22,26 @@ p {
 
 /* Fijo los bordes blancos de la pagina */
 .page-border {
-  position: fixed;
-  background: #fff;
-  transform: translateZ(0);
-  z-index: 3; }
-  .page-border.border-top {
+    position: fixed;
+    background: #fff;
+    transform: translateZ(0);
+    z-index: 3; }
+.page-border.border-top {
     top: 0px;
     left: 0px;
     height: 10px;
     width: 100%; }
-  .page-border.border-left {
+.page-border.border-left {
     top: 0px;
     left: 0px;
     width: 10px;
     height: 100%; }
-  .page-border.border-right {
+.page-border.border-right {
     top: 0px;
     right: 0px;
     height: 100%;
     width: 10px; }
-  .page-border.border-bottom {
+.page-border.border-bottom {
     bottom: 0px;
     left: 0px;
     height: 10px;
@@ -511,3 +511,11 @@ aside {
         width: 45%;
     }
 }
+
+@media only all and (max-width: 320px) {
+    #second {
+        background-image: none;
+    }
+}
+
+
