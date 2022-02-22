@@ -1,0 +1,120 @@
+/* Footer */
+.footer-distributed {
+  	box-sizing: border-box;
+  	width: 100%;
+  	text-align: left;
+  	padding: 15px 5px 2px 5px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-top: 1px solid #2f2f2f;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right {
+  	display: inline-block;
+  	vertical-align: top;
+}
+
+/* Footer left */
+.footer-distributed .footer-left {
+	  width: 40%;
+}
+
+/* The company logo */
+.footer-distributed h3 {
+  	font-size: 20px;
+  	margin: 0;
+}
+
+footer-distributed .footer-links {
+  	margin: 20px 0 12px;
+  	padding: 0;
+}
+
+.footer-distributed .footer-links a {
+  	display: inline-block;
+  	line-height: 1.8;
+    font-weight: 400;
+    font-size: 1.1rem;
+  	text-decoration: none;
+  	color: inherit;
+}
+
+.footer-distributed .footer-links a:before {
+    content: "|";
+    font-weight:300;
+    font-size: 20px;
+    left: 0;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.footer-distributed .footer-links .link-1:before {
+    content: none;
+}
+
+/* Footer Center */
+.footer-distributed .footer-center {
+  	width: 35%;
+}
+
+.footer-distributed .footer-center p {
+  	display: inline-block;
+    font-weight: 400;
+  	vertical-align: middle;
+  	margin:0;
+}
+
+.footer-distributed .footer-center p a {
+    color: #1478a7;
+    /*color: #11AEAA;*/
+  	text-decoration: none;
+    font-size: 16px;
+}
+
+.footer-distributed .footer-center i {
+    font-size: 25px;
+    line-height: 30px;
+    width: 30px;
+  	height: 30px;
+  	border-radius: 50%;
+  	text-align: center;
+  	margin: 5px 5px;
+  	vertical-align: middle;
+    color: #2f2f2f;
+}
+
+/* Footer Right */
+.footer-distributed .footer-right {
+	   width: 20%;
+}
+
+.footer-distributed .footer-company-about{
+     line-height: 20px;
+     font-size: 1rem;
+     margin: 0;
+     text-align: right;
+}
+
+@media (max-width: 880px) {
+
+	.footer-distributed{
+		font: bold 14px sans-serif;
+	}
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right,
+  .footer-distributed .footer-company-about {
+		display: block;
+		width: 100%;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i {
+		margin-left: 0;
+	}
+
+}
