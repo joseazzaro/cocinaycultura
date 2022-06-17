@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta name = "viewport" content="width=devicewidth,  initial-scale=1">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <title>C & C - Acerca de</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="page-border border-top"></div>
+  <div class="page-border border-right"></div>
+  <div class="page-border border-left"></div>
+  <div class="page-border border-bottom"></div>
+
+  <div class="contact-container">
+    <div class="left-col">
+      <div class="column1">
+         <img src="img/About2v3.jpg" alt="Libro">
+       </div>
+       <div class="column">
+         <img src="img/About3v2.jpg" alt="Comedor">
+         <img src="img/About4v3.jpg" alt="Invitacion">
+       </div>
+       <div class="column">
+         <img src="img/About5v2.jpg" alt="Receta">
+         <img src="img/About1v2.jpg" alt="Cocina">
+       </div>
+       <div class="column">
+         <img src="img/About2v4.jpg" alt="Receta">
+       </div>
+    </div>
+    <div class="right-col">
+        <h2>Cocina & Cultura</h2>
+        <div>
+            <p class="subheader">Porqué este Blog</p>
+        </div>
+        <div class="about-description">
+            <p>
+                "A lo largo de años fui recopilando fotos, recetas, historias, libros manchados, manuscritos y recuerdos.
+                Tardé algún tiempo en ver que existía un patrón en todo ese conjunto, el tiempo necesario para entender
+                que la Cocina atravesaba toda mi historia."
+            </p>
+        </div>
+        <div class="under-description">
+            <p>
+                Comer es un hecho cultural y esencialmente comunitario, pero también es un símbolo.
+                Como tal, siempre conlleva un mensaje.
+                Bajo esta perspectiva, todo lo que consideramos una obviedad adquiere significado.
+                Si lo pensamos detenidamente, una reconsideración breve de todo lo que aceptamos sin más,
+                puede requerir una segunda lectura, una sutil entrelínea que no siempre nos detenemos a leer.
+                Cuál es el motivo de los "buenos modales"?. Nos sentamos siempre en la misma posición en la mesa ?.
+                Y esta mesa, es cuadrada o redonda?. Que hace que una comida sea considerada autóctona?. La combinacióna
+                de sabores que preferimos, es una cuestión solo de gusto?.
+                El hombre es el único animal que cocina sus alimentos. Necesitamos o "queremos" hacerlo?.
+                Qué buscamos con esa transformación y cómo nos impacta?.
+                La lista es interminable y el viaje me lleva a muchos lugares y momentos.
+                Es evidente que no soy el mismo que hace unos años, tampoco lo que como es igual.
+                La influencia es mutua.<br>
+                Espero que todo aquel que lea este blog, si es que comparte alguna de estas mismas
+                inquietudes, pueda acompañarme en esta búsqueda.
+            </p>
+        </div>
+    </div>
+  </div>
+  <footer class="footer-distributed">
+        <div class="footer-left">
+              <h3>C & C - Cocina y Cultura</h3>
+              <p class="footer-links">
+                     <a href="index.html" class="link-1">Home</a>
+                     <a href="contact.html">Contacto</a>
+                     <a href="#">Historias</a>
+              </p>
+        </div>
+        <div class="footer-center">
+            <div>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+            </div>
+        </div>
+        <div class="footer-right">
+            <p class="footer-company-about">
+            Todos los derechos reservados.
+            <br>
+            &copy; Copyright
+            <script type="text/javascript">document.write(new Date().getFullYear());</script>
+            , Cocina y Cultura.
+            </p>
+        </div>
+  </footer>
+
+  <script>
+  var scroller = $('left-col');
+  $(window).bind('scroll', function(){
+     var top = this.scrollTop;
+     $('left-col').css('top', top * 1);
+  });
+  </script>
+
+</body>
+</html>
